@@ -1,3 +1,1 @@
-- I am an 18 year old developer who tries to do everything that comes to his mind.
-- I like java and C#.
-- If I ever make something interesting you can [support me](https://ko-fi.com/A0A4C9QF9).
+beep boop
